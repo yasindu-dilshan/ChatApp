@@ -1,2 +1,4 @@
 # ChatApp
-Real Time Chat Application based Spring Boot, WebSockets and React
+Real-Time Chat Application
+Backend: SpringBoot, WebSockets
+Frontend: ReactJS
